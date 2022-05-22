@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hii, I'm Matheus 🖐
 
-<!--
-**matheuslima2f04/matheuslima2f04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a student of Internet Systems at the Universidade Católica de Pernambuco 🏫
+...........................................................................................
+<div>
+  <ul>
+    <li> 📖 Learning JavaScript</li>
+     <li> 🥅 2022 Goals: Build apps with React native ⚛️</li>
+  </ul>
+  </div>
 
-Here are some ideas to get you started:
+#### Conecte-se comigo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lima-andrade-0444b7238/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://www.instagram.com/matheusla_/)
+
+![Matheus Lima Andrade GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslima2f04&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima2f04&layout=compact)](https://github.com/matheuslima2f04/github-readme-stats)
+
+
