@@ -1,7 +1,6 @@
-### Hii, I'm Matheus 🖐
+## Hii, I'm Matheus 🖐
 
-### I'm a student of Internet Systems at the Universidade Católica de Pernambuco 🏫
-...........................................................................................
+## I'm a student of Internet Systems at the Universidade Católica de Pernambuco 🏫
 <div>
   <ul>
     <li> 📖 Learning JavaScript</li>
@@ -9,7 +8,7 @@
   </ul>
   </div>
 
-#### Conecte-se comigo:
+### Conecte-se comigo:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lima-andrade-0444b7238/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
