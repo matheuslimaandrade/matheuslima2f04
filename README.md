@@ -1,6 +1,7 @@
-## Hii, I'm Matheus 🖐
+### Hii, I'm Matheus 🖐
 
-## I'm a student of Internet Systems at the Universidade Católica de Pernambuco 🏫
+
+## I'm a student 
 <div>
   <ul>
     <li> 📖 Learning JavaScript</li>
