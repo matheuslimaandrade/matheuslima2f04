@@ -7,7 +7,7 @@
     <li> Learn more about MERN stack</li>
   </ul>
   </div>
-https://www.linkedin.com/in/matheus-lima-andradee/
+
 ### ☕  Wanna chat?
 👉🏽 send an DM for me on <a href=https://www.linkedin.com/in/matheus-lima-andradee/">LinkedIn!</a>
 
