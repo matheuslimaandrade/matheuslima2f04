@@ -7,9 +7,9 @@
     <li> Learn more about MERN stack</li>
   </ul>
   </div>
-
+https://www.linkedin.com/in/matheus-lima-andradee/
 ### ☕  Wanna chat?
-👉🏽 send an DM for me on <a href="https://www.linkedin.com/in/matheus-lima-andrade-0444b7238/">LinkedIn!</a>
+👉🏽 send an DM for me on <a href=https://www.linkedin.com/in/matheus-lima-andradee/">LinkedIn!</a>
 
 ![Matheus Lima Andrade GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslima2f04&show_icons=true&theme=tokyonight)
 
