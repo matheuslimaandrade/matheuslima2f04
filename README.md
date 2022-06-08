@@ -9,7 +9,7 @@
   </div>
 
 ### ☕  Wanna chat?
-👉🏽 send an DM for me on <a href=https://www.linkedin.com/in/matheus-lima-andradee/">LinkedIn!</a>
+👉🏽 send an DM for me on <a href="https://www.linkedin.com/in/matheus-lima-andradee/">LinkedIn!</a>
 
 ![Matheus Lima Andrade GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuslima2f04&show_icons=true&theme=tokyonight)
 
